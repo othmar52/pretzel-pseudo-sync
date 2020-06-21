@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But noit these files and dirs
+!.gitignore
+!sketch_udpsync-server/
+!sketch_udpsync-server/*
+!sketch_udpsync-client/
+!sketch_udpsync-client/*
